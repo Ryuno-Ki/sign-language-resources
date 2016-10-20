@@ -8,6 +8,8 @@ A gist of online resources about (German) Sign Language.
 * [Gebärdengeschichten](http://kinderbuecher.gmu.de/#geschichten)
 * [Gebärdenschrift](http://gebaerdenschrift.de/)
 * [Karin Kestner](http://kestner.de/)
+* [Taubenschlag](http://taubenschlag.de/)
+* [VerbaVoice](http://www.verbavoice.de/)
 * [Vokabelheft](https://www.sign-lang.uni-hamburg.de/alex/)
 
 # License
