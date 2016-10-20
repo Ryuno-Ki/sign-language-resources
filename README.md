@@ -2,6 +2,14 @@
 
 A gist of online resources about (German) Sign Language.
 
+## German sign language
+
+* [Christliche Gehörlosen-Gemeinschaft](http://cgg-online.de/)
+* [Gebärdengeschichten](http://kinderbuecher.gmu.de/#geschichten)
+* [Gebärdenschrift](http://gebaerdenschrift.de/)
+* [Karin Kestner](http://kestner.de/)
+* [Vokabelheft](https://www.sign-lang.uni-hamburg.de/alex/)
+
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
