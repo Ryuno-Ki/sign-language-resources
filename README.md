@@ -48,6 +48,7 @@ A gist of online resources about (German) Sign Language.
 ### American Sign Language
 
 * [Sign Slam](http://www.aslam.com/press)
+* [Spread the sign](http://www.spreadthesign.com/)
 
 ### British Sign Language
 
