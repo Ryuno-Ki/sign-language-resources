@@ -43,9 +43,16 @@ A gist of online resources about (German) Sign Language.
 * [Vokabelheft](https://www.sign-lang.uni-hamburg.de/alex/)
 * [Wilde Löwen-Jugend](http://www.wildeloewenjugend.de/)
 
-## TODO
+## English Sign Language
 
-* Create a new topic to put ASL links from above in there.
+### American Sign Language
+
+* [Sign Slam](http://www.aslam.com/press)
+
+### British Sign Language
+
+* [European Union of the Deaf](https://www.eud.eu/)
+* [World Federation of the Deaf](http://wfdeaf.org/)
 
 # License
 
